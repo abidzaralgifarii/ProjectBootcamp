@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008902256725",
+    "project_id": "menumate-13c03",
+    "storage_bucket": "menumate-13c03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008902256725:android:4a3650f1523900b8783cdc",
+        "android_client_info": {
+          "package_name": "com.menumate.menumate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB351wf2QH4QY9FQI1mVXielZwvzC0DB4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
